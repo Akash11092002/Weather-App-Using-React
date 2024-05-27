@@ -10,7 +10,7 @@ const Weather = () => {
  const [err,seterr]=useState('') 
  
  
- const API_Key='21b6a6b6aca13745bf69896a300e41c2'
+ const API_Key=your api key
     const url =`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${API_Key}`
 
 function handleonChange(e){
