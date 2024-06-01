@@ -16,7 +16,7 @@ Error Handling: Displays user-friendly error messages for invalid inputs or netw
 
 Technologies Used:
 
-Frontend: HTML, CSS, JavaScript
+Frontend: REACTJS
 
 API: OpenWeatherMap API
 
